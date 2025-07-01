@@ -1,4 +1,4 @@
-# expense_tracker.py
+
 balance = 0
 transactions = []
 
